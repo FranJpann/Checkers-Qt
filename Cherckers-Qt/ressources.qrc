@@ -1,0 +1,8 @@
+<RCC>
+	<qresource prefix="/">
+		<file>annexes/crown_white.png</file>
+	</qresource>
+	<qresource prefix="/">
+		<file>annexes/crown_black.png</file>
+	</qresource>
+</RCC> 
